@@ -1,0 +1,7 @@
+{
+    "name": "mibore",
+    "creator": "renchaku",
+    "description": "A simple module \"for now\" that alerts you whenever your Mining Boost is ready, as DT is for losers",
+    "version": "2.2.0",
+    "entry": "index.js" 
+}
